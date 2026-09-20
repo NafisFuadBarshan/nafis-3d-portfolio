@@ -4,7 +4,7 @@ An interactive, scroll-driven 3D portfolio built with **HTML, Tailwind CSS and T
 
 The whole site is a single self-contained file: [`index.html`](./index.html). Styles, scripts and images are all inside it, so there is no build step and no `node_modules`.
 
-Live site: <https://nafisfuadbarshan.github.io/nafis-portfolio/>
+Live site: <https://nafisfuadbarshan.github.io/nafis-3d-portfolio/>
 
 ---
 
